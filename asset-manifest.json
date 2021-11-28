@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/business-card/static/js/main.e79019ec.chunk.js",
+    "main.js.map": "/business-card/static/js/main.e79019ec.chunk.js.map",
+    "runtime-main.js": "/business-card/static/js/runtime-main.3808e991.js",
+    "runtime-main.js.map": "/business-card/static/js/runtime-main.3808e991.js.map",
+    "static/js/2.e384f808.chunk.js": "/business-card/static/js/2.e384f808.chunk.js",
+    "static/js/2.e384f808.chunk.js.map": "/business-card/static/js/2.e384f808.chunk.js.map",
+    "index.html": "/business-card/index.html",
+    "static/js/2.e384f808.chunk.js.LICENSE.txt": "/business-card/static/js/2.e384f808.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3808e991.js",
+    "static/js/2.e384f808.chunk.js",
+    "static/js/main.e79019ec.chunk.js"
+  ]
+}
