@@ -11,4 +11,4 @@ This is the source code for my digital business card website. I built this to sh
 
 ## Demo
 
-You can visit the website by going [here](https://lawrence9z.github.io/business-card/).
+You can visit the website by going [here](https://lawrence-le.github.io/business-card/).
